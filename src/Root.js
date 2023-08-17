@@ -12,7 +12,7 @@ function Root() {
 
   return (
     <div>
-      <h1>{counter}</h1>
+      <h1>{counter} </h1>
       <button onClick={countUp}>up</button>
       <button onClick={countDown}>down</button>
     </div>
